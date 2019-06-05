@@ -3,6 +3,13 @@ layout: default
 ---
 
 
+
+
+
+# [点击在线安装ipa](itms-services://?action=download-manifest&url=https://ipainstall.github.io/apps/manifest.plist)
+
+
+
 # WeNote
 
 fine weather-----Simple and convenient weather forecast, give you a good mood for the day. -
