@@ -6,8 +6,6 @@ layout: default
 
 
 
-# [点击在线安装ipa](itms-services://?action=download-manifest&url=https://ipainstall.github.io/apps/manifest.plist)
-
 
 
 # WeNote
