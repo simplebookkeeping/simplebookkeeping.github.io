@@ -1,0 +1,85 @@
+
+App Thinning Size Report for All Variants of 牛彩
+
+Variant: 牛彩-0325AAC4-1D52-40F8-8398-CD3C32FD62BC.ipa
+Supported variant descriptors: [device: iPad2,4, os-version: 9.0], [device: iPad2,2, os-version: 9.0], [device: iPad2,3, os-version: 9.0], [device: iPad2,7, os-version: 9.0], [device: iPad2,1, os-version: 9.0], [device: iPad2,5, os-version: 9.0], and [device: iPad2,6, os-version: 9.0]
+App + On Demand Resources size: 31.8 MB compressed, 32.9 MB uncompressed
+App size: 31.8 MB compressed, 32.9 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: 牛彩-27CD8237-3955-4CDC-9734-752BAFA544EE.ipa
+Supported variant descriptors: [device: iPad6,4, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad7,3, os-version: 12.0], [device: iPad6,8, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad8,1, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPad4,3, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad6,12, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad5,2, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad7,2, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad7,1, os-version: 12.0], [device: iPad4,8, os-version: 12.0], [device: iPad8,6, os-version: 12.0], and [device: iPad8,4, os-version: 12.0]
+App + On Demand Resources size: 31.7 MB compressed, 33.1 MB uncompressed
+App size: 31.7 MB compressed, 33.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: 牛彩-2E3DFF6C-7321-4DFB-BD99-44144552664B.ipa
+Supported variant descriptors: [device: iPhone10,2, os-version: 12.0], [device: iPhone8,2, os-version: 12.0], [device: iPhone9,2, os-version: 12.0], [device: iPhone11,6, os-version: 12.0], [device: iPhone9,4, os-version: 12.0], [device: iPhone7,1, os-version: 12.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone10,6, os-version: 12.0], and [device: iPhone10,5, os-version: 12.0]
+App + On Demand Resources size: 31.7 MB compressed, 33.2 MB uncompressed
+App size: 31.7 MB compressed, 33.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: 牛彩-30D6CA05-3A7A-42B1-B813-7954C5BC62D5.ipa
+Supported variant descriptors: [device: iPod7,1, os-version: 12.0], [device: iPhone8,4, os-version: 12.0], [device: iPhone9,1, os-version: 12.0], [device: iPhone7,2, os-version: 12.0], [device: iPhone8,1, os-version: 12.0], [device: iPhone10,1, os-version: 12.0], [device: iPhone10,4, os-version: 12.0], [device: iPhone6,1, os-version: 12.0], [device: iPhone6,2, os-version: 12.0], and [device: iPhone9,3, os-version: 12.0]
+App + On Demand Resources size: 31.6 MB compressed, 33 MB uncompressed
+App size: 31.6 MB compressed, 33 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: 牛彩-38E83366-A4B2-4BBB-9F5A-45889F2A64E0.ipa
+Supported variant descriptors: [device: iPad6,7, os-version: 11.0], [device: iPad6,7, os-version: 10.0], [device: iPad6,11, os-version: 10.0], [device: iPad6,11, os-version: 12.2], [device: iPad4,8, os-version: 10.0], [device: iPad7,4, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad5,3, os-version: 10.0], [device: iPad4,4, os-version: 12.2], [device: iPad4,6, os-version: 9.0], [device: iPad7,6, os-version: 12.2], [device: iPad4,7, os-version: 9.0], [device: iPad6,4, os-version: 11.0], [device: iPad4,3, os-version: 9.0], [device: iPad4,3, os-version: 10.0], [device: iPad5,3, os-version: 9.0], [device: iPad11,1, os-version: 12.2], [device: iPad5,1, os-version: 9.0], [device: iPad5,4, os-version: 10.0], [device: iPad6,4, os-version: 12.2], [device: iPad7,4, os-version: 10.0], [device: iPad4,4, os-version: 9.0], [device: iPad4,9, os-version: 9.0], [device: iPad6,12, os-version: 11.0], [device: iPad8,7, os-version: 12.2], [device: iPad4,3, os-version: 11.0], [device: iPad6,8, os-version: 11.0], [device: iPad8,8, os-version: 12.2], [device: iPad4,2, os-version: 9.0], [device: iPad5,4, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad7,5, os-version: 11.0], [device: iPad4,5, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad6,3, os-version: 9.0], [device: iPad7,2, os-version: 10.0], [device: iPad4,2, os-version: 10.0], [device: iPad8,3, os-version: 12.2], [device: iPad4,7, os-version: 10.0], [device: iPad6,7, os-version: 12.2], [device: iPad6,4, os-version: 9.0], [device: iPad4,8, os-version: 11.0], [device: iPad5,4, os-version: 9.0], [device: iPad7,1, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad4,5, os-version: 9.0], [device: iPad5,2, os-version: 11.0], [device: iPad6,8, os-version: 10.0], [device: iPad7,2, os-version: 11.0], [device: iPad5,2, os-version: 9.0], [device: iPad5,1, os-version: 11.0], [device: iPad6,8, os-version: 9.0], [device: iPad7,5, os-version: 12.2], [device: iPad4,5, os-version: 10.0], [device: iPad6,3, os-version: 12.2], [device: iPad6,11, os-version: 11.0], [device: iPad4,9, os-version: 12.2], [device: iPad4,8, os-version: 9.0], [device: iPad7,1, os-version: 10.0], [device: iPad4,9, os-version: 11.0], [device: iPad4,1, os-version: 9.0], [device: iPad6,12, os-version: 10.0], [device: iPad4,2, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad7,3, os-version: 10.0], [device: iPad7,4, os-version: 11.0], [device: iPad5,3, os-version: 12.2], [device: iPad4,1, os-version: 10.0], [device: iPad4,1, os-version: 11.0], [device: iPad4,2, os-version: 11.0], [device: iPad5,2, os-version: 12.2], [device: iPad6,4, os-version: 10.0], [device: iPad7,3, os-version: 11.0], [device: iPad4,6, os-version: 10.0], [device: iPad5,2, os-version: 10.0], [device: iPad7,6, os-version: 11.0], [device: iPad4,5, os-version: 11.0], [device: iPad6,8, os-version: 12.2], [device: iPad6,7, os-version: 9.0], [device: iPad5,1, os-version: 10.0], [device: iPad4,6, os-version: 11.0], [device: iPad11,3, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad4,7, os-version: 11.0], [device: iPad4,4, os-version: 10.0], [device: iPad11,4, os-version: 12.2], [device: iPad7,1, os-version: 11.0], [device: iPad5,3, os-version: 11.0], [device: iPad4,4, os-version: 11.0], [device: iPad11,2, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad4,9, os-version: 10.0], [device: iPad5,4, os-version: 11.0], [device: iPad8,2, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad6,3, os-version: 10.0], [device: iPad4,7, os-version: 12.2], and [device: iPad6,3, os-version: 11.0]
+App + On Demand Resources size: 31.7 MB compressed, 33.1 MB uncompressed
+App size: 31.7 MB compressed, 33.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: 牛彩-46DCB54A-7E31-454D-AD19-88F2BFC0DDA6.ipa
+Supported variant descriptors: [device: iPhone5,3, os-version: 10.0], [device: iPhone5,1, os-version: 10.0], [device: iPhone5,2, os-version: 10.0], [device: iPhone5,4, os-version: 9.0], [device: iPhone5,3, os-version: 9.0], [device: iPhone5,1, os-version: 9.0], [device: iPod5,1, os-version: 9.0], [device: iPhone4,1, os-version: 9.0], [device: iPhone5,4, os-version: 10.0], and [device: iPhone5,2, os-version: 9.0]
+App + On Demand Resources size: 31.6 MB compressed, 32.7 MB uncompressed
+App size: 31.6 MB compressed, 32.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: 牛彩-6E939F67-10F0-48B1-AB06-AC983EF3862E.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.0]
+App + On Demand Resources size: 31.6 MB compressed, 33.1 MB uncompressed
+App size: 31.6 MB compressed, 33.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: 牛彩-8D56D397-3EE8-4434-87B2-627E1351EBB7.ipa
+Supported variant descriptors: [device: iPad3,2, os-version: 9.0], [device: iPad3,5, os-version: 10.0], [device: iPad3,6, os-version: 10.0], [device: iPad3,1, os-version: 9.0], [device: iPad3,4, os-version: 10.0], [device: iPad3,3, os-version: 9.0], [device: iPad3,4, os-version: 9.0], [device: iPad3,6, os-version: 9.0], and [device: iPad3,5, os-version: 9.0]
+App + On Demand Resources size: 31.7 MB compressed, 32.8 MB uncompressed
+App size: 31.7 MB compressed, 32.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: 牛彩-AA3694B2-E911-4050-9390-78EC8BD7A8C9.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 31.6 MB compressed, 33.1 MB uncompressed
+App size: 31.6 MB compressed, 33.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: 牛彩-AA589C3C-132C-4949-AC09-48EA734B291D.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 11.0], [device: iPhone9,1, os-version: 12.2], [device: iPod7,1, os-version: 11.0], [device: iPhone6,1, os-version: 10.0], [device: iPhone7,2, os-version: 12.2], [device: iPhone8,1, os-version: 12.2], [device: iPhone8,4, os-version: 9.0], [device: iPod7,1, os-version: 9.0], [device: iPhone7,2, os-version: 10.0], [device: iPod7,1, os-version: 10.0], [device: iPhone8,4, os-version: 10.0], [device: iPod7,1, os-version: 12.2], [device: iPhone8,1, os-version: 9.0], [device: iPhone8,1, os-version: 10.0], [device: iPhone10,1, os-version: 12.2], [device: iPhone6,1, os-version: 11.0], [device: iPhone8,1, os-version: 11.0], [device: iPhone10,4, os-version: 12.2], [device: iPhone10,4, os-version: 11.0], [device: iPhone6,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPhone9,3, os-version: 12.2], [device: iPhone9,1, os-version: 11.0], [device: iPhone9,1, os-version: 10.0], [device: iPhone10,1, os-version: 11.0], [device: iPhone9,3, os-version: 10.0], [device: iPhone9,3, os-version: 11.0], [device: iPhone7,2, os-version: 9.0], [device: iPhone6,2, os-version: 10.0], [device: iPhone6,2, os-version: 9.0], [device: iPhone7,2, os-version: 11.0], [device: iPhone6,2, os-version: 11.0], [device: iPhone8,4, os-version: 12.2], and [device: iPhone6,1, os-version: 9.0]
+App + On Demand Resources size: 31.6 MB compressed, 33 MB uncompressed
+App size: 31.6 MB compressed, 33 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: 牛彩-F8BB270A-3391-44B5-8B19-367E3084AD08.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 11.0], [device: iPhone11,2, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], [device: iPhone7,1, os-version: 10.0], [device: iPhone9,4, os-version: 10.0], [device: iPhone9,4, os-version: 11.0], [device: iPhone8,2, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], [device: iPhone9,2, os-version: 11.0], [device: iPhone9,4, os-version: 12.2], [device: iPhone10,5, os-version: 11.0], [device: iPhone10,5, os-version: 12.2], [device: iPhone10,3, os-version: 11.0], [device: iPhone8,2, os-version: 9.0], [device: iPhone8,2, os-version: 10.0], [device: iPhone10,6, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone9,2, os-version: 10.0], [device: iPhone9,2, os-version: 12.2], [device: iPhone10,6, os-version: 11.0], [device: iPhone7,1, os-version: 12.2], [device: iPhone7,1, os-version: 9.0], [device: iPhone10,2, os-version: 11.0], [device: iPhone10,3, os-version: 12.2], and [device: iPhone8,2, os-version: 11.0]
+App + On Demand Resources size: 31.7 MB compressed, 33.2 MB uncompressed
+App size: 31.7 MB compressed, 33.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: 牛彩.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 33.3 MB compressed, 36 MB uncompressed
+App size: 33.3 MB compressed, 36 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
